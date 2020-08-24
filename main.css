@@ -1,5 +1,6 @@
 p {
   color: blue;
+  font-family: menlo;
 }
 p2 {
   font-weight: bold;
@@ -9,5 +10,31 @@ p3 {
   color: red;
 }
 h1 {
-  font-family: new-rocker;
+  font-family: Monaco;
+}
+body {
+  background-color: lightblue;
+}
+p4 {
+  font-style: italic;
+}
+#luis {
+  text-decoration: line-through;
+}
+#jets {
+  color: green;
+  font-family: Courier New;
+}
+#lakers {
+  color: purple;
+}
+#usc {
+  color: maroon;
+}
+#arsenal {
+  color: red;
+}
+.sports-image {
+  height: 100px;
+  width: 100px;
 }
