@@ -1,6 +1,8 @@
 p {
   color: blue;
   font-family: menlo;
+  text-indent: 25px;
+  text-outline: black 5px solid;
 }
 p2 {
   font-weight: bold;
@@ -11,6 +13,7 @@ p3 {
 }
 h1 {
   font-family: Monaco;
+  text-shadow: 1px 1px;
 }
 body {
   background-color: lightblue;
@@ -37,4 +40,5 @@ p4 {
 .sports-image {
   height: 100px;
   width: 100px;
+  border: 1px solid;
 }
